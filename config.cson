@@ -1,0 +1,12 @@
+"*":
+  "atom-python-run": {}
+  core:
+    autoHideMenuBar: true
+    packagesWithKeymapsDisabled: []
+    reopenProjectMenuCount: 20
+    telemetryConsent: "no"
+  editor:
+    defaultFontSize: 30
+    fontSize: 18
+  "exception-reporting":
+    userId: "c46a25bc-3a1d-431f-862b-2d7c43a6fb77"

@@ -1,0 +1,61 @@
+{
+  "_from": "https://www.atom.io/api/packages/run-script/versions/4.0.1/tarball",
+  "_id": "run-script@4.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-0FqUmPdcMbvzHFuQpjStESIEVQGv0vg6ML/NkCKW/ta2Jl0QqbP+/p7DMJeKRPmUo7BiOqbkzrPMzd163NG5SA==",
+  "_location": "/run-script",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/run-script/versions/4.0.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/run-script/versions/4.0.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/run-script/versions/4.0.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/run-script/versions/4.0.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/run-script/versions/4.0.1/tarball",
+  "_shasum": "78b99374df89f2458e5c09d8800b6cbf0ffc7deb",
+  "_spec": "https://www.atom.io/api/packages/run-script/versions/4.0.1/tarball",
+  "_where": "/tmp/apm-install-dir-202163-27054-1pvos7s.axr8",
+  "activationCommands": {
+    "atom-workspace": "run-script:activate"
+  },
+  "bugs": {
+    "url": "https://github.com/legodude17/atom-run-script/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "execa": "^0.10.0"
+  },
+  "deprecated": false,
+  "description": "A short description of your package",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "eslintConfig": {
+    "globals": {
+      "atom": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 6
+    }
+  },
+  "homepage": "https://github.com/legodude17/atom-run-script#readme",
+  "keywords": [
+    "atom"
+  ],
+  "license": "MIT",
+  "main": "./lib/run-script",
+  "name": "run-script",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legodude17/atom-run-script.git"
+  },
+  "scripts": {
+    "test": "echo 'test'"
+  },
+  "version": "4.0.1"
+}

@@ -1,0 +1,47 @@
+{
+  "_from": "https://www.atom.io/api/packages/script-runner/versions/2.6.0/tarball",
+  "_id": "script-runner@2.6.0",
+  "_inBundle": false,
+  "_integrity": "sha512-qqAZWl/3Nbl6mLpiLbwcVuHs1en3HDhwCkzuNxBNoRcnkw3EN4v1pVRWAt/t84K0ax80zN/hQpMaPFSQQBZscA==",
+  "_location": "/script-runner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/script-runner/versions/2.6.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/script-runner/versions/2.6.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/script-runner/versions/2.6.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/script-runner/versions/2.6.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/script-runner/versions/2.6.0/tarball",
+  "_shasum": "b9cc5ae5785c19a2e811eded5ee41b96bb61243f",
+  "_spec": "https://www.atom.io/api/packages/script-runner/versions/2.6.0/tarball",
+  "_where": "/tmp/apm-install-dir-202163-20940-1do0uwz.r2tuj",
+  "bugs": {
+    "url": "https://github.com/ioquatix/script-runner/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "etch": "^0.12.0",
+    "node-pty": "^0.9.0",
+    "resize-observer-polyfill": "^1.4",
+    "shell-environment": "^0.3.0",
+    "shellwords": "^0.1.0",
+    "temp-write": "^3.4",
+    "xterm": "^3.3"
+  },
+  "deprecated": false,
+  "description": "Run scripts and shells within a proper terminal.",
+  "homepage": "https://github.com/ioquatix/script-runner",
+  "license": "MIT",
+  "main": "./lib/script-runner",
+  "name": "script-runner",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ioquatix/script-runner.git"
+  },
+  "version": "2.6.0"
+}

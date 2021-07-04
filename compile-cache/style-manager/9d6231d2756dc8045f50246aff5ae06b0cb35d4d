@@ -1,0 +1,1 @@
+{"source":".script-view .line {\n  font-size: 20px;\n  margin: 2.5px;\n}\n.script.view .panel-body::after {\n  display: block;\n  height: 18px;\n  content: \"  \";\n}\n"}
